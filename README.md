@@ -12,6 +12,9 @@ When you are done working on a new PR and you need a description or when you nee
 
 Check out this sample paste I just created for this repo: https://paste.myst.rs/fko4z335
 
+<img width=1000 alt="example usage" src="https://github.com/user-attachments/assets/5146515e-25ae-4f2c-a8bd-f994ee23c0a6" />
+
+
 ## How to use it?
 
 First, install deps and build the project:
