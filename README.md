@@ -1,8 +1,8 @@
 # PasteMyst MCP Server
 
-> - **"Prepare good documentation for this project and make a paste with it"**
-> - **"Create a paste with all changes in this PR"**
-> - **"make a paste of all the popular sorting algorithms and their time complexity"**
+> - "[**Prepare good documentation for this project and make a paste with it**](https://paste.myst.rs/fko4z335)"
+> - "[**Create a paste with all changes in this PR**](https://paste.myst.rs/grvf62qb)"
+> - "[**Make a paste of all the popular sorting algorithms and their time complexity**](https://paste.myst.rs/6rhkftvt)"
 
 An MCP server for the [PasteMyst](https://paste.myst.rs) API. Allows llms to create, read, update, and delete code pastes, manage user information, etc. Some of the [awesome use cases](#awesome-use-cases) are listed below.
 
