@@ -74,17 +74,12 @@ Provide the API token in the `env` section if you want to create private pastes 
   - "How many languages are supported by PasteMyst?"
 - "Sell all ma pastemyst stocks" yeah right
 
-## API Documentation
-
-For more information about the PasteMyst API, visit:
-- [API Documentation](https://paste.myst.rs/api-docs/index)
-- [PasteMyst Website](https://paste.myst.rs)
-
 ## Rate Limiting
 
 The PasteMyst API is rate-limited to 5 requests per second. Exceeding this limit will result in 429 (Too Many Requests) responses.
 
 ## Links
 
+- [API Documentation](https://paste.myst.rs/api-docs/index)
 - [PasteMyst](https://paste.myst.rs)
 - [Model Context Protocol](https://modelcontextprotocol.io)
