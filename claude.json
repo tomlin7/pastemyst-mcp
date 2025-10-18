@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "pastemyst": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\BIT\\Documents\\github\\pastemyst-mcp\\build\\index.js"
+      ],
+      "env": {
+        "PASTEMYST_API_TOKEN": "your_api_token_here"
+      }
+    }
+  }
+}
+

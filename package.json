@@ -1,0 +1,27 @@
+{
+  "name": "pastemyst-mcp",
+  "version": "0.1.0",
+  "author": "tomlin7",
+  "license": "MIT",
+  "description": "MCP server for PasteMyst API",
+  "type": "module",
+  "bin": {
+    "pastemyst-mcp": "./build/index.js"
+  },
+  "scripts": {
+    "build": "tsc && node scripts/fix-permissions.js",
+    "dev": "tsc && node build/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "pastemyst-ts": "^1.1.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  },
+  "files": [
+    "build"
+  ]
+}
